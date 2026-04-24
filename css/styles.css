@@ -187,6 +187,10 @@ button {
   flex-wrap: wrap;
 }
 
+.features-item {
+  width: 100%;
+}
+
 .features-icon-box {
   display: none;
 }
